@@ -6,4 +6,4 @@ As part of the Brainstation Data Science Bootcamp, we were partnered with data s
 A dataset from the US Consumer Financial Protection Bureau (CFPB) was used for this
 analysis. To identify contemporary consumer issues with traditional financial institutions,
 the dataset was limited to complaints against the top 30 US banks (by asset size)
-between 2020 and 2025.
+between 2020 and 2025. Matplotlib, Seaborn, Tableau were used to generate visuals. Complaint narratives were investigated using LLM and basic NLP/Regex techniques.
