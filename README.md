@@ -7,3 +7,8 @@ A dataset from the US Consumer Financial Protection Bureau (CFPB) was used for t
 analysis. To identify contemporary consumer issues with traditional financial institutions,
 the dataset was limited to complaints against the top 30 US banks (by asset size)
 between 2020 and 2025. Matplotlib, Seaborn, Tableau were used to generate visuals. Complaint narratives were investigated using LLM and basic NLP/Regex techniques.
+
+Key findings include:
+- Growth of Other transaction problems across domestic & international transfers
+- Increase in deposit hold complaints, indicating slow or unpredictable clearing processes
+- Customer narratives reveal frustration with unexplained failures, lack of transparency, and delayed availability of funds
